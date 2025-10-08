@@ -1,1 +1,5 @@
-# proyecto_sprint_7
+# Proyecto Sprint 7
+Edgar
+
+## Titulo 2
+Este es el proyecto del **sprint 7**
